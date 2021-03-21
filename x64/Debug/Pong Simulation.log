@@ -1,0 +1,8 @@
+﻿  Main.cpp
+D:\Project\pong-simulation\Player.h(25,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Project\pong-simulation\Player.h(26,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Project\pong-simulation\Main.cpp(30,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Project\pong-simulation\Main.cpp(37,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Project\pong-simulation\Main.cpp(58,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Project\pong-simulation\Main.cpp(65,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Pong Simulation.vcxproj -> D:\Project\pong-simulation\x64\Debug\Pong Simulation.exe

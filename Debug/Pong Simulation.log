@@ -1,0 +1,8 @@
+﻿  Main.cpp
+D:\Tugas Kuliah\Arsitektur Jaringan dan Komputer\Pong Simulation\Player.h(25,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Tugas Kuliah\Arsitektur Jaringan dan Komputer\Pong Simulation\Player.h(26,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Tugas Kuliah\Arsitektur Jaringan dan Komputer\Pong Simulation\Main.cpp(30,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Tugas Kuliah\Arsitektur Jaringan dan Komputer\Pong Simulation\Main.cpp(37,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Tugas Kuliah\Arsitektur Jaringan dan Komputer\Pong Simulation\Main.cpp(58,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Tugas Kuliah\Arsitektur Jaringan dan Komputer\Pong Simulation\Main.cpp(65,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Pong Simulation.vcxproj -> D:\Tugas Kuliah\Arsitektur Jaringan dan Komputer\Pong Simulation\Debug\Pong Simulation.exe
